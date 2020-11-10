@@ -3,52 +3,58 @@
 
 # Adversarial Attacks
 
-0. <strong>Houdini: Fooling Deep Structured Prediction Models</strong>（未读）
+* **Houdini: Fooling Deep Structured Prediction Models**.
+      <em>Moustapha M Cisse, Y ossi Adi, Natalia Neverova, and Joseph Keshet</em>.
+      neural information processing systems. **2017**
 
-1. <strong>Audio Adversarial Examples: Targeted Attacks on Speech-to-Text</strong>.<em> Nicholas Carlini and David Wagner</em>. IEEE Security and Privacy Workshops. 
+* **Generating adversarial examples for speech recognition**.
+      <em>Dan Iter, Jade Huang, and Mike Jermann</em>.
+    Stanford Technical Report. **2017**
+
+* <strong>Audio Adversarial Examples: Targeted Attacks on Speech-to-Text</strong>.<em> Nicholas Carlini and David Wagner</em>. IEEE Security and Privacy Workshops. 
 <strong>2018</strong> [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>] [[cite](https://dblp.uni-trier.de/rec/bibtex/conf/sp/Carlini018)]
 
-2. <strong>Adversarial Attacks Against Automatic Speech Recognition Systems via Psychoacoustic Hiding</strong>
+* <strong>Adversarial Attacks Against Automatic Speech Recognition Systems via Psychoacoustic Hiding</strong>
                 [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>]
 
-3. <strong>Robust Audio Adversarial Example for a Physical Attack</strong>.<em> Hiromu Yakura and Jun Sakuma</em>. Twenty-Eighth International Joint Conference on
+* <strong>Robust Audio Adversarial Example for a Physical Attack</strong>.<em> Hiromu Yakura and Jun Sakuma</em>. Twenty-Eighth International Joint Conference on
                Artificial Intelligence, (IJCAI). <strong>2019</strong> [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>]
                [[cite](https://dblp.uni-trier.de/rec/bibtex/conf/ijcai/YakuraS19)]
                
-4. <strong>Adversarial attacks against automatic speech recognition systems via psychoacoustic hiding</strong>
+* <strong>Adversarial attacks against automatic speech recognition systems via psychoacoustic hiding</strong>
               [<strong>White-Box-Attack</strong>]
 
-5. <strong>Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition</strong>.<em> Yao Qin,
+* <strong>Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition</strong>.<em> Yao Qin,
                Nicholas Carlini, Garrison W. Cottrell, Ian J. Goodfellow and Colin Raffel</em>. 36th International Conference on Machine Learning, (ICML). <strong>2019</strong>
                [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>] [[cite](https://dblp.uni-trier.de/rec/bibtex/conf/icml/QinCCGR19)]
                
-6. <strong>Universal Adversarial Perturbations for Speech Recognition Systems</strong>.<em> Paarth Neekhara, Shehzeen Hussain, Prakhar Pandey, Shlomo Dubnov,
+* <strong>Universal Adversarial Perturbations for Speech Recognition Systems</strong>.<em> Paarth Neekhara, Shehzeen Hussain, Prakhar Pandey, Shlomo Dubnov,
                Julian J. McAuley, Farinaz Koushanfar</em>. Interspeech 2019, 20th Annual Conference of the International Speech
                Communication Association. <strong>2019</strong>
                [<strong>White-Box-Attack</strong>] [<strong>Untargeted</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/NeekharaHPDMK19.html?view=bibtex)]   
                
-7. <strong>Enabling Fast and Universal Audio Adversarial Attack Using Generative
+* <strong>Enabling Fast and Universal Audio Adversarial Attack Using Generative
                Model</strong>.<em> Yi Xie, Zhuohang Li, Cong Shi, Jian Liu, Yingying Chen, Bo Yuanl</em>. arXiv <strong>2020</strong>
                [<strong>White-Box-Attack</strong>] [<strong>Targeted and Untargeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2004-12261.html?view=bibtex)]
 
-8. <strong>Defending Your Voice: Adversarial Attack on Voice Conversion</strong>.
+* <strong>Defending Your Voice: Adversarial Attack on Voice Conversion</strong>.
                <em> Chien-yu Huang, Yist Y. Lin, Hung-yi Lee, Lin-shan Lee </em>. arXiv. 
                [<strong>White-Box-Attack</strong>] [<strong>Untargeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-08781.html?view=bibtex)]
 
-9. <strong>Fooling End-to-end Speaker Verification by Adversarial Examples</strong>.
+* <strong>Fooling End-to-end Speaker Verification by Adversarial Examples</strong>.
                <em> Felix Kreuk, Yossi Adi, Moustapha Ciss{\'{e}}, Joseph Keshet </em>19th Annual Conference of the International Speech Communication Association. <strong>2018</strong> [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1801-03339.html?view=bibtex)]
 
-10. <strrong>Targeted adversarial examples for black box audio systems</strong>
+* <strrong>Targeted adversarial examples for black box audio systems</strong>
                  [<strong>Semi-Black-Box-Attack</strong>] 
                  
-11. <strong>Adversarial Black-Box Attacks on Automatic Speech Recognition Systems Using Multi-Objective Evolutionary Optimization</strong>.<em> Shreya Khare,
+* <strong>Adversarial Black-Box Attacks on Automatic Speech Recognition Systems Using Multi-Objective Evolutionary Optimization</strong>.<em> Shreya Khare,
                Rahul Aralikatte and Senthil Mani</em>. 20th Annual Conference of the International Speech Communication Association. <strong>2019</strong>
                [<strong>Semi-Black-Box-Attack</strong>] [<strong>Targeted</strong>] [[cite](https://dblp.uni-trier.de/rec/bibtex/conf/interspeech/KhareAM19)]
 
-12. <strong>Towards Query-efﬁcient Adversarial Attack against Automatic Speech Recognition Systems</strong>
+* <strong>Towards Query-efﬁcient Adversarial Attack against Automatic Speech Recognition Systems</strong>
                 [<strong>Semi-Black-Box-Attack</strong>] [<strong>Targeted</strong>]
 
-13. <strong>Devil’s Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices</strong>
+* <strong>Devil’s Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices</strong>
                 [<strong>Black-Box-Attack</strong>] [<strong>Targeted</strong>] 
 
 
