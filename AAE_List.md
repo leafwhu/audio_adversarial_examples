@@ -11,6 +11,14 @@
       <em>Dan Iter, Jade Huang, and Mike Jermann</em>.
     Stanford Technical Report. **2017**
 
+* **Did you hear that? adversarial examples against automatic speech recognition**.
+      <em>Moustafa Alzantot, Bharathan Balaji, and Mani Srivastava</em>.
+         arXiv preprint arXiv:1801.00554. **2018** [**Black-Box-Attack**][**Evolutionary Algorithms**]
+
+* **Adversarial regularization for attention based end-to-end robust speech recognition**.
+           <em>Sun S, Guo P, Xie L, et al</em>.
+           IEEE/ACM Transactions on Audio, Speech, and Language Processing. **2019** [**attak on LAS**]
+
 * <strong>Audio Adversarial Examples: Targeted Attacks on Speech-to-Text</strong>.<em> Nicholas Carlini and David Wagner</em>. IEEE Security and Privacy Workshops. 
 <strong>2018</strong> [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>] [[cite](https://dblp.uni-trier.de/rec/bibtex/conf/sp/Carlini018)]
 
